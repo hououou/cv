@@ -3,22 +3,39 @@
 #
 
 sidebar:
-     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Jiamin Hou
-    #tagline: Full Stack Developer
+    tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: jiaminhou@ruc.edu.com
     phone: +86-13260329266
     #timezone: China/Cancun Timezone
-    #citizenship:
+    citizenship:
     website: China
     #github: sharu725
     #telegram: # add your nickname without '@' sign
+    pdf: http://www.africau.edu/images/default/sample.pdf
+    
+    # Sidebar links
+    email: jiaminhou@ruc.edu.com
+    phone: +86-13260329266
+    citizenship:
+    website: China
+    #linkedin: alandoe
+    #xing: alandoe
+    #github: sharu725
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    #twitter: '@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
