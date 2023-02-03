@@ -67,11 +67,11 @@ career-profile:
       temporal graph databases and graph processing. 
       She can be reached via email at jiaminhou@ruc.edu.cn or WeChat at houjiamin1998.
 education:
-    title: Education
+    title: Coding
     info:
-      - degree: C, C++, Scala, Python
-      - degree: Familiar with Spark
-      - degree: Familiar with the source code of Memgraph 
+      - item: C, C++, Scala, Python
+      - item: Familiar with Spark
+      - item: Familiar with the source code of Memgraph 
         
 experiences:
     title: Experiences
