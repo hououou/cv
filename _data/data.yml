@@ -77,18 +77,18 @@ experiences:
     title: Experiences
     info:
       - role: Key Laboratory of Data Engineering and Knowledge Engineering (DEKE)
-        time: Sept. 2020 - Present
-        company: Research and Teaching Assistant
+        #time: Sept. 2020 - Present
+        company: Research and Teaching Assistant; Sept. 2020 - Present
         details: |
-          Describe your role here lorem ipsum dolor sit amet
+          #Describe your role here lorem ipsum dolor sit amet
             - ACGPMiner- I design and implement ACGPMiner, a parallel algorithm to mine abnormal data in property graphs. ACGPMiner follows the generation-and-validation paradigm and does the anomaly detection level by level.
             - TGDB- I design and implement TGDB, a temporal graph database that efficiently supports temporal data management based on Memgraph. TGDB relies on MVCC to manage temporal data and has advantages with fast querying capabilities and small storage overhead. This work is under submission.
             - Teaching Assistant- Cloud computing and big data:Help students become familiar with the big data processing environment (Hadoop and Spark); 
             Introduction to Database System: guide students to design and develop database application platforms.
             
       - role: Institute of Information System and Engineering, Tsinghua University
-        time: Nov. 2018 - Apr. 2019
-        company: Research intern
+        #time: Nov. 2018 - Apr. 2019
+        company: Research intern; Nov. 2018 - Apr. 2019
         details: |
           We propoese FRM-SE, a convolutional neural network model to tackle the problem of 
           Person Re-identification. I help the teammate Tongkun Xu to design the model and I 
