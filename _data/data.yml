@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Jiamin Hou
@@ -56,53 +56,23 @@ sidebar:
         - item: Graph processing
           link:
           
-     interests:
-      title: coding
-      info:
-        - item: C, C++, Scala, Python
-          link:
-
-        - item: Familiar with Spark 
-          link:
-          
-        - item: Familiar with the source code of Memgraph 
-          link:
-
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Jiaminhou is a Ph.D. student at the School of Information, 
+      Renmin University of China, and her supervisors are Prof. Xiaoyong Du 
+      and Prof. Wei Lu. She got his B.E. degree from China University of Mining \& Technology, Beijing
+      in 2020. Her research interests include 
+      temporal graph databases and graph processing. 
+      She can be reached via email at jiaminhou@ruc.edu.cn or WeChat at houjiamin1998.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: C, C++, Scala, Python
+      - degree: Familiar with Spark
+      - degree: Familiar with the source code of Memgraph 
+        
 experiences:
     title: Experiences
     info:
