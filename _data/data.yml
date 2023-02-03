@@ -38,29 +38,36 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
-    languages:
+   languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: China
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: English
+          level: Fluent
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Temporal graph databases
           link:
 
-        - item: Snowboarding
+        - item: Graph processing
+          link:
+          
+     coding:
+      title: coding
+      info:
+        - item: C, C++, Scala, Python
           link:
 
-        - item: Cooking
+        - item: Familiar with Spark 
           link:
+          
+        - item: Familiar with the source code of Memgraph 
+          link:
+
 
 career-profile:
     title: Career Profile
