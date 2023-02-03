@@ -112,3 +112,24 @@ experiences:
           am mainly responsible for the reproduction of other state-of-the-art methods. 
           More details can be found in our ICME'20 paper.
           
+projects:
+    title: projects
+    assignments:
+      - role: Cross-region Government Service Oriented Data Governance Systems and Tools
+        time: Sept. 2020 - Present
+        company: National Key Research and Development Program of China
+        details: |
+          Describe your role here lorem ipsum dolor sit amet
+            - Extract metadata from PDF files of government information resources directory.
+            - Sort out the logic between metadata and build a government metadata knowledge graph.
+            - Design and develop a temporal graph database to manage the evolution of metadata knowledge graph.
+            - Lead the collaboration to the development of data management platforms.
+            
+      - role: A Data Sharing and Fusion Platform for Government Governance
+        time: June. 2018 - Dec. 2019
+        company: Beijing Municipal Science and Technology Project
+        details: |
+          - Organize and build government data into a knowledge graph, and provide retrieval and navigation functions for graph data.
+          - Develop the visual navigation of government graph data based on Neo4j Browser.
+          - Analyze government data on the knowledge graph, such as information supplementation, information extension and entity alignment.
+          
