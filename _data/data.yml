@@ -69,136 +69,68 @@ career-profile:
 education:
     title: Coding
     info:
-      - item: C, C++, Scala, Python
-      - item: Familiar with Spark
-      - item: Familiar with the source code of Memgraph 
+      - degree: C, C++, Scala, Python
+      - degree: Familiar with Spark
+      - degree: Familiar with the source code of Memgraph 
         
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Key Laboratory of Data Engineering and Knowledge Engineering (DEKE)
+        time: Sept. 2020 - Present
+        company: Research and Teaching Assistant
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          #Describe your role here lorem ipsum dolor sit amet
+            - ACGPMiner- I design and implement ACGPMiner, a parallel algorithm to mine abnormal data in property graphs. ACGPMiner follows the generation-and-validation paradigm and does the anomaly detection level by level.
+            - TGDB- I design and implement TGDB, a temporal graph database that efficiently supports temporal data management based on Memgraph. TGDB relies on MVCC to manage temporal data and has advantages with fast querying capabilities and small storage overhead. This work is under submission.
+            - Teaching Assistant- Cloud computing and big data:Help students become familiar with the big data processing environment (Hadoop and Spark); 
+            Introduction to Database System: guide students to design and develop database application platforms.
+            
+      - role: Institute of Information System and Engineering, Tsinghua University
+        time: Nov. 2018 - Apr. 2019
+        company: Research intern
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          We propoese FRM-SE, a convolutional neural network model to tackle the problem of 
+          Person Re-identification. I help the teammate Tongkun Xu to design the model and I 
+          am mainly responsible for the reproduction of other state-of-the-art methods. 
+          More details can be found in our ICME'20 paper.
+          
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    title: projects
+    info:
+      - role: Cross-region Government Service Oriented Data Governance Systems and Tools
+        time: Sept. 2020 - Present
+        company: National Key Research and Development Program of China
+        details: |
+          #Describe your role here lorem ipsum dolor sit amet
+            - Extract metadata from PDF files of government information resources directory.
+            - Sort out the logic between metadata and build a government metadata knowledge graph.
+            - Design and develop a temporal graph database to manage the evolution of metadata knowledge graph.
+            - Lead the collaboration to the development of data management platforms.
+            
+      - role: A Data Sharing and Fusion Platform for Government Governance
+        time: June. 2018 - Dec. 2019
+        company: Beijing Municipal Science and Technology Project
+        details: |
+          - Organize and build government data into a knowledge graph, and provide retrieval and navigation functions for graph data.
+          - Develop the visual navigation of government graph data based on Neo4j Browser.
+        - Analyze government data on the knowledge graph, such as information supplementation, information extension and entity alignment.
+        
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    title: Publications 
     papers:
-      - title: The Art of Computer Programming
+      - title: An Efficient Built-in Temporal Support in Graph Databases.
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Jiamin Hou, Guodong Jin, Zhouyu Wang, Wei Lu, Feng Zhang, Xiaoyong Du
+        conference: under submission
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: Efficient Anomaly Detection in Property Graphs.
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Jiamin Hou, Yuhong Lei, Zhe Peng, Wei Lu, Feng Zhang, Xiaoyong Du,
+        conference: "Database Systems for Advanced Applications" (DASFAA), 2023, CCF-B, to appear.
 
-      - title: A syntax directed compiler for Algol 60
+      - title: A General Re-Ranking Method Based On Metric Learning For Person Re-Identification.
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+        authors: Tongkun Xu, Xin Zhao, Jiamin Hou, Jiyong Zhang, Xinhong Hao, Jian Yin
+        conference:  {IEEE} International Conference on Multimedia and Expo (ICME}), 2020, CCF-B
