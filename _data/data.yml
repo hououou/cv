@@ -80,7 +80,7 @@ experiences:
         time: Sept. 2020 - Present
         company: Research and Teaching Assistant
         details: |
-          #Describe your role here lorem ipsum dolor sit amet
+          Describe your role here lorem ipsum dolor sit amet
             - ACGPMiner- I design and implement ACGPMiner, a parallel algorithm to mine abnormal data in property graphs. ACGPMiner follows the generation-and-validation paradigm and does the anomaly detection level by level.
             - TGDB- I design and implement TGDB, a temporal graph database that efficiently supports temporal data management based on Memgraph. TGDB relies on MVCC to manage temporal data and has advantages with fast querying capabilities and small storage overhead. This work is under submission.
             - Teaching Assistant- Cloud computing and big data:Help students become familiar with the big data processing environment (Hadoop and Spark); 
@@ -102,7 +102,7 @@ projects:
         time: Sept. 2020 - Present
         company: National Key Research and Development Program of China
         details: |
-          #Describe your role here lorem ipsum dolor sit amet
+          Describe your role here lorem ipsum dolor sit amet
             - Extract metadata from PDF files of government information resources directory.
             - Sort out the logic between metadata and build a government metadata knowledge graph.
             - Design and develop a temporal graph database to manage the evolution of metadata knowledge graph.
@@ -114,23 +114,5 @@ projects:
         details: |
           - Organize and build government data into a knowledge graph, and provide retrieval and navigation functions for graph data.
           - Develop the visual navigation of government graph data based on Neo4j Browser.
-        - Analyze government data on the knowledge graph, such as information supplementation, information extension and entity alignment.
+          - Analyze government data on the knowledge graph, such as information supplementation, information extension and entity alignment.
         
-
-publications:
-    title: Publications 
-    papers:
-      - title: An Efficient Built-in Temporal Support in Graph Databases.
-        link: "#"
-        authors: Jiamin Hou, Guodong Jin, Zhouyu Wang, Wei Lu, Feng Zhang, Xiaoyong Du
-        conference: under submission
-
-      - title: Efficient Anomaly Detection in Property Graphs.
-        link: "#"
-        authors: Jiamin Hou, Yuhong Lei, Zhe Peng, Wei Lu, Feng Zhang, Xiaoyong Du,
-        conference: "Database Systems for Advanced Applications" (DASFAA), 2023, CCF-B, to appear.
-
-      - title: A General Re-Ranking Method Based On Metric Learning For Person Re-Identification.
-        link: "#"
-        authors: Tongkun Xu, Xin Zhao, Jiamin Hou, Jiyong Zhang, Xinhong Hao, Jian Yin
-        conference:  {IEEE} International Conference on Multimedia and Expo (ICME}), 2020, CCF-B
