@@ -87,7 +87,7 @@ publications:
         conference: Database Systems for Advanced Applications(DASFAA), 2023, CCF-B, to appear.
 
       - title: "A General Re-Ranking Method Based On Metric Learning For Person Re-Identification."
-        link: "#"
+        link: "https://www.researchgate.net/profile/Tongkun-Xu/publication/342604400_A_General_Re-Ranking_Method_Based_On_Metric_Learning_For_Person_Re-Identification/links/6018015445851517ef2f2539/A-General-Re-Ranking-Method-Based-On-Metric-Learning-For-Person-Re-Identification.pdf?origin=publicationDetail&_sg%5B0%5D=WItQ2gOw4rkd_pP3--55bk1aeof2TlgwvRScZdo8Dxc_bhWt2b6DGhXgTgbQ9pNuZpUrtsh4zZ419IbwUqmFiA.9D89NuNfoEqjBcjsUO7a6I_SRsTl5OQkLxOmWALZVze1ykd2wY8OkT-YSjmNT5GtCo8x7TPs_D3C6uuowTp6kg&_sg%5B1%5D=qSwTgqPe6kmU-Gel-fyXa7bt5iPQgq4VOcVJ7gcwfBYgPHRnrW2iMpgg67QvY7TG5i3E9OzbzG4172c0akthaBRmavofl7MQqEcsJBvFXzIP.9D89NuNfoEqjBcjsUO7a6I_SRsTl5OQkLxOmWALZVze1ykd2wY8OkT-YSjmNT5GtCo8x7TPs_D3C6uuowTp6kg&_iepl%5BgeneralViewId%5D=1bpfnaY3Pz0GK0mUOgr7a3fmztmzUuHpNDwo&_iepl%5Bcontexts%5D%5B0%5D=searchReact&_iepl%5BviewId%5D=toNE5vr6UaFjgHZyC08WhmltTqo0wDzCfrzp&_iepl%5BsearchType%5D=publication&_iepl%5Bdata%5D%5BcountLessEqual20%5D=1&_iepl%5Bdata%5D%5BinteractedWithPosition3%5D=1&_iepl%5Bdata%5D%5BwithoutEnrichment%5D=1&_iepl%5Bposition%5D=3&_iepl%5BrgKey%5D=PB%3A342604400&_iepl%5BtargetEntityId%5D=PB%3A342604400&_iepl%5BinteractionType%5D=publicationDownload&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D"
         authors: Tongkun Xu, Xin Zhao, Jiamin Hou, Jiyong Zhang, Xinhong Hao, Jian Yin
         conference:  IEEE International Conference on Multimedia and Expo (ICME), 2020, CCF-B
         
@@ -119,7 +119,6 @@ projects:
         time: Sept. 2020 - Present
         company: National Key Research and Development Program of China
         details: |
-          Describe your role here lorem ipsum dolor sit amet
             - Extract metadata from PDF files of government information resources directory.
             - Sort out the logic between metadata and build a government metadata knowledge graph.
             - Design and develop a temporal graph database to manage the evolution of metadata knowledge graph.
