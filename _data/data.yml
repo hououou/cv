@@ -72,6 +72,23 @@ education:
       - degree: C, C++, Scala, Python
       - degree: Familiar with Spark
       - degree: Familiar with the source code of Memgraph 
+publications:
+    title: Publications 
+    papers:
+      - title: An Efficient Built-in Temporal Support in Graph Databases.
+        link: "#"
+        authors: Jiamin Hou, Guodong Jin, Zhouyu Wang, Wei Lu, Feng Zhang, Xiaoyong Du
+        conference: under submission
+
+      - title: Efficient Anomaly Detection in Property Graphs.
+        link: "#"
+        authors: Jiamin Hou, Yuhong Lei, Zhe Peng, Wei Lu, Feng Zhang, Xiaoyong Du,
+        conference: "Database Systems for Advanced Applications" (DASFAA), 2023, CCF-B, to appear.
+
+      - title: A General Re-Ranking Method Based On Metric Learning For Person Re-Identification.
+        link: "#"
+        authors: Tongkun Xu, Xin Zhao, Jiamin Hou, Jiyong Zhang, Xinhong Hao, Jian Yin
+        conference:  {IEEE} International Conference on Multimedia and Expo (ICME}), 2020, CCF-B
         
 experiences:
     title: Experiences
@@ -97,7 +114,7 @@ experiences:
           
 projects:
     title: projects
-    info:
+    assignments:
       - role: Cross-region Government Service Oriented Data Governance Systems and Tools
         time: Sept. 2020 - Present
         company: National Key Research and Development Program of China
