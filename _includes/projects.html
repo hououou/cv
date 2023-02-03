@@ -16,22 +16,27 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for project in projects.assignments %}
-    <div class="item">
+  {% for experience in projects.assignments %}
+  <div class="item">
 
-      <span class="project-title">
-        {% if project.link %}
-        <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
-        {% else %}
-        {{ project.title }}
-        {% endif %}
-      </span>
+    <div class="meta">
 
-      {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
-      {% endif %}
+      <div class="upper-row">
+        <h3 class="job-title">{{ experience.role }}</h3>
+        <div class="time">{{ experience.time }}</div>
+      </div><!--//upper-row-->
 
-    </div><!--//item-->
+      <div class="company">{{ experience.company }}</div>
+
+    </div><!--//meta-->
+
+    {% if experience.details %}
+    <div class="details">
+      {{ experience.details | markdownify }}
+    </div><!--//details-->
+    {% endif %}
+
+  </div><!--//item-->
   {% endfor %}
 
 </section><!--//section-->
