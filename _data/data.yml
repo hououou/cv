@@ -56,18 +56,6 @@ sidebar:
         - item: Graph processing
           link:
           
-     interests:
-      title: coding
-      info:
-        - item: C, C++, Scala, Python
-          link:
-
-        - item: Familiar with Spark 
-          link:
-          
-        - item: Familiar with the source code of Memgraph 
-          link:
-
 
 career-profile:
     title: Career Profile
