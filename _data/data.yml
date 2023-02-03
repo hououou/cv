@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    #education: False # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Jiamin Hou
@@ -50,7 +50,20 @@ sidebar:
           
         - item: Familiar with the source code of Memgraph 
           link:
-
+education:
+    title: Education
+    info:
+      - degree: MSc in Computer Science
+        university: University of London
+        time: 2011 - 2012
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
 
 career-profile:
     title: Career Profile
@@ -63,9 +76,7 @@ career-profile:
       She can be reached via email at jiaminhou@ruc.edu.cn or WeChat at houjiamin1998.
 
 publications:
-    title: Publications
-    #intro: |
-     # You can list your publications 
+    title: Publications 
     papers:
       - title: An Efficient Built-in Temporal Support in Graph Databases.
         link: "#"
