@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: jiaminhou@ruc.edu.com
+    email: jiaminhou@ruc.edu.cn
     phone: +86-13260329266
     #timezone: China/Cancun Timezone
     citizenship:
@@ -66,7 +66,7 @@ career-profile:
       and Prof. Wei Lu. She got his B.E. degree from China University of Mining & Technology, Beijing
       in 2020. Her research interests include 
       temporal graph databases and graph processing. 
-      She can be reached via email at jiaminhou@ruc.edu.com or WeChat at houjiamin1998.
+      She can be reached via email at jiaminhou@ruc.edu.cn or WeChat at houjiamin1998.
 education:
     title: Coding
     info:
