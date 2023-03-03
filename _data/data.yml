@@ -19,7 +19,7 @@ sidebar:
     website: China
     #github: sharu725
     #telegram: # add your nickname without '@' sign
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    #pdf: http://www.africau.edu/images/default/sample.pdf
     
     # Sidebar links
     email: jiaminhou@ruc.edu.com
@@ -78,12 +78,12 @@ publications:
     title: Publications 
     papers:
       - title: "An Efficient Built-in Temporal Support in Graph Databases."
-        link: "#"
+        #link: "#"
         authors: Jiamin Hou, Guodong Jin, Zhouyu Wang, Wei Lu, Feng Zhang, Xiaoyong Du
         conference: under submission
         
       - title: "Efficient Anomaly Detection in Property Graphs."
-        link: "#"
+        #link: "#"
         authors: Jiamin Hou, Yuhong Lei, Zhe Peng, Wei Lu, Feng Zhang, Xiaoyong Du,
         conference: Database Systems for Advanced Applications(DASFAA), 2023, CCF-B, to appear.
 
