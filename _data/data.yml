@@ -76,14 +76,9 @@ education:
 
 publications:
     title: Publications 
-    papers:
-      - title: "An Efficient Built-in Temporal Support in Graph Databases."
-        #link: "#"
-        authors: Jiamin Hou, Guodong Jin, Zhouyu Wang, Wei Lu, Feng Zhang, Xiaoyong Du
-        conference: under submission
-        
+    papers:        
       - title: "Efficient Anomaly Detection in Property Graphs."
-        #link: "#"
+        link: "https://github.com/hououou/cv/raw/master/_data/Efficient%20Anomaly%20Detection%20in%20Property%20Graphs.pdf"
         authors: Jiamin Hou, Yuhong Lei, Zhe Peng, Wei Lu, Feng Zhang, Xiaoyong Du,
         conference: Database Systems for Advanced Applications(DASFAA), 2023, CCF-B, to appear.
 
